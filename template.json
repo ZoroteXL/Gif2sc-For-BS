@@ -1,0 +1,45 @@
+{
+    "options": {
+        "hasExternalTexFile": false,
+        "hasHighresFile": false,
+        "hasLowresFile": false
+    },
+    "modifiers": [],
+    "textures": [
+        {
+            "pixelType": 0,
+            "width": 5760,
+            "height": 356
+        }
+    ],
+    "shapes": [
+        
+    ],
+    "textFields": [
+        {
+            "id": 1003,
+            "fontName": "Lilita One",
+            "rgbaCol": [
+                0.0,
+                0.0,
+                1.0,
+                0.102
+            ],
+            "unknownBool1": true,
+            "unknownBool2": false,
+            "unknownBool3": true,
+            "unknownBool4": false,
+            "unknownByte1": 2,
+            "unknownByte2": 20,
+            "unknownShort1": -225,
+            "unknownShort2": -2,
+            "unknownShort3": 518,
+            "unknownShort4": 117,
+            "unknownBool5": false,
+            "text": "TEST"
+        }
+    ],
+    "movieClips": [
+        
+    ]
+}
